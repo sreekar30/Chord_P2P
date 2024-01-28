@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/chord_program.fsproj": {}
+  },
+  "projects": {
+    "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/chord_program.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/chord_program.fsproj",
+        "projectName": "chord_program",
+        "projectPath": "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/chord_program.fsproj",
+        "packagesPath": "/Users/vnitesh/.nuget/packages/",
+        "outputPath": "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vnitesh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.401/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.400, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyamqatKeAJYUeFsEWojEkOfJ0MP+ysBZq3snUD0uGvbGO+yPVu0qBeNefvdXCVov8xT8/bsvR7vH4HIDl3bRg==",
+  "success": true,
+  "projectFilePath": "/Users/vnitesh/Documents/DOSP/programming_assignment_2/dosp_PA2/chord_program/chord_program.fsproj",
+  "expectedPackageFiles": [
+    "/Users/vnitesh/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
